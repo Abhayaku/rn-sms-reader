@@ -14,3 +14,4 @@ example/README.md
 LICENSE
 lefthook.yml
 /src/__tests__
+/android/.gradle
