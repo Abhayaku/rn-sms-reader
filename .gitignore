@@ -1,0 +1,16 @@
+
+/example/node_modules
+/node_modules
+/example/android
+/example/ios
+/android/.gradle
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+/example/.bundle
+example/.watchmanconfig
+example/Gemfile
+example/README.md
+/ios
+LICENSE
+lefthook.yml
+/src/__tests__

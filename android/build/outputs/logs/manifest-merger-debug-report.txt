@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:2:11-36
+		INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:3:5-70
+	android:name
+		ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:3:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml:4:22-64
+uses-sdk
+INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhayupadhyay/Desktop/rn-sms-reader/android/src/main/AndroidManifest.xml
