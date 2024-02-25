@@ -15,3 +15,4 @@ LICENSE
 lefthook.yml
 /src/__tests__
 /android/.gradle
+.vscode/settings.json
